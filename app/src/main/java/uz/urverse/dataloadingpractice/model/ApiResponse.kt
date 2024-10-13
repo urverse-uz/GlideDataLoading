@@ -1,7 +1,9 @@
 package uz.urverse.dataloadingpractice.model
 
 data class ApiResponse(
+    val albumId: Int,
+    val id: Int,
     val title: String,
-    val body: String,
-    val url: String
+    val url: String,
+    val thumbnailUrl: String
 )
