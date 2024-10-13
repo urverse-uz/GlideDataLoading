@@ -1,4 +1,4 @@
-package uz.urverse.dataloadingpractice
+package uz.urverse.dataloadingpractice.utils
 
 import android.content.Context
 import android.graphics.Bitmap

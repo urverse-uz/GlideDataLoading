@@ -7,7 +7,7 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
 import com.bumptech.glide.request.RequestOptions
 import com.bumptech.glide.request.transition.DrawableCrossFadeFactory
-import uz.urverse.dataloadingpractice.GlideBlurTransformation
+import uz.urverse.dataloadingpractice.utils.GlideBlurTransformation
 import uz.urverse.dataloadingpractice.databinding.ItemLayoutBinding
 import uz.urverse.dataloadingpractice.databinding.ItemLoadingBinding
 import uz.urverse.dataloadingpractice.model.ApiResponse
